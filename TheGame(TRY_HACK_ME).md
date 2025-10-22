@@ -9,3 +9,7 @@ After downloading the file,  let's use the `strings`command to see if we can fin
 There are so many strings, So, we can just search for the  **THM** string if there is one.use the `grep` command.
 
 ![grep](usegrep.png)
+
+I got the flag!
+
+This room was easy to find the flag in just a few minutes.
